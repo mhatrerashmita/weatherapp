@@ -11,7 +11,6 @@ This is a simple weather app built with React.js that fetches weather data from 
 ## Technologies Used
 
 - React.js
-- [Weather API](#)
 - CSS 
 
 
